@@ -27,7 +27,19 @@
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
- 
+
+### Jingkenh (Ken) Loh notes:
+
+Dataset selected: https://open.toronto.ca/dataset/dinesafe/
+I also uploaded the dataset ("Dinesafe.csv") onto the assignment-3 branch, in the assignments folder.
+
+Visualization 1: Python file "assignment_3_python.ipynb"
+Created an interactive plot using plotly.
+
+Visualization 2: Tableau Public - Link: https://public.tableau.com/app/profile/ken.loh/viz/assignment-3_17415792981620/Dashboard1#1
+Created a visualization on Tableau Public using the same dataset.
+
+
 ### Why am I doing this assignment?:  
 - This ongoing assignment ensures active participation in the course, and assesses the learning outcomes: 
 * Create and customize data visualizations from start to finish in Python
@@ -61,9 +73,9 @@
     * Open a private window in your browser. Copy and paste the link to your pull request into the address bar. Make sure you can see your pull request properly. This helps the technical facilitator and learning support staff review your submission easily.
 
 Checklist:
-- [ ] Create a branch called `assignment-3`.
-- [ ] Ensure that the repository is public.
-- [ ] Review [the PR description guidelines](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md#guidelines-for-pull-request-descriptions) and adhere to them.
-- [ ] Verify that the link is accessible in a private browser window.
+- [x] Create a branch called `assignment-3`.
+- [x] Ensure that the repository is public.
+- [x] Review [the PR description guidelines](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md#guidelines-for-pull-request-descriptions) and adhere to them.
+- [x] Verify that the link is accessible in a private browser window.
 
 If you encounter any difficulties or have questions, please don't hesitate to reach out to our team via our Slack. Our Technical Facilitators and Learning Support staff are here to help you navigate any challenges.
